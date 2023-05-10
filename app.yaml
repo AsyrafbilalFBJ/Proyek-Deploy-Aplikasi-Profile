@@ -7,6 +7,6 @@ handlers:
     static_files: index.html
     upload: index.html
 
-  - url: /assets\styles
+  - url: /assets/styles
     static_files: /style.css
     upload: /style.css
